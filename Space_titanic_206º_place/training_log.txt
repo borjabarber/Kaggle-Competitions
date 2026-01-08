@@ -1,0 +1,23 @@
+
+============================================================
+SPACESHIP TITANIC - Regularized Version
+============================================================
+Train: (8693, 14), Test: (4277, 13)
+--- Feature Engineering ---
+Applying group-aware imputation...
+Creating derived features...
+Encoding features...
+Features: 26
+--- Training LightGBM (Strong Regularization) ---
+Fold 1: 0.8062
+Fold 2: 0.8085
+Fold 3: 0.8097
+Fold 4: 0.8130
+Fold 5: 0.8021
+CV Accuracy (threshold=0.5): 0.8079 (80.79%)
+Submission saved: 4277 predictions
+
+============================================================
+FINAL CV ACCURACY: 80.79%
+Target Kaggle: ~80% (closer to CV)
+============================================================
