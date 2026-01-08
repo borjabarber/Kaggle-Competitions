@@ -11,7 +11,8 @@ Este repositorio refleja mi evolución como Data Scientist, mi curiosidad técni
 | [**Bank prediction**](https://github.com/borjabarber/Kaggle-Competitions/tree/main/Bank_3%C2%BA_place) | ¡Enséñame la Pasta!: La Batalla Analítica de los Préstamos Bancarios .                     | 3º Place        |
 | [**Predicción precio portatiles**](https://github.com/borjabarber/Kaggle-Competitions/tree/main/Computer_Shop_4º_place) | Competición de Machine Learning para el Bootcamp de Data Science en The Bridge.           | 4º Place          |
 | [**Cuenta Clips**](https://github.com/borjabarber/Kaggle-Competitions/tree/main/Clip_4º_place)   | Competición de computer vision sobre contar clips                                                   | 4º Place         |
-| [**Space_Titanic**](https://github.com/borjabarber/Kaggle-Competitions/tree/main/Space_titanic_206º_place)   | Competición Space titanic                                                   | 206º Place (2600 participants)        |
+| [**Space_Titanic**](https://github.com/borjabarber/Kaggle-Competitions/tree/main/Space_titanic_206º_place)   | Competición Space titanic                                                   | 206º Place (2,784 Participants)        |
+
 
 
 
